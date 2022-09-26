@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am a PhD student at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/). I am advised by [Ben Leong](https://www.comp.nus.edu.sg/~bleong/) and I also work closely with [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/). Before joining NUS, I worked as a Member of Technical Staff in the Print Workflow division of [Adobe](https://www.adobe.com/in/) at Noida, India. Even prior to that I spent 4 amazing years doing my undergraduate studies at [BITS Pilani](https://universe.bits-pilani.ac.in/Pilani/index.aspx), India.
 
 
 I am passionate about **Systems and Networking**; in particular, programmable dataplanes and their applications/implications for network monitoring, congestion control, fault tolerance, in-network computing and distributed systems.
 
-My updated (August 2022) CV is [here](https://rajkiranjoshi.github.io/files/cv_rajjoshi.pdf).
+My updated (August 2022) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
 
 
 
