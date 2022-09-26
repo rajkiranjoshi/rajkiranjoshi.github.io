@@ -24,9 +24,10 @@ author_profile: true
   \[[paper]({{ base_path }}/files/papers/apnet22-hoho.pdf)\]
   \[[slides]({{ base_path }}/files/slides/apnet22-hoho-slides.pdf)\]
 
-* FSA: Fronthaul Slicing Architecture for 5G using dataplane programmable switches [MOBICOM '22]  
+* FSA: Fronthaul Slicing Architecture for 5G using dataplane programmable switches [MOBICOM '21]  
   Nishant Budhdev, **Raj Joshi**, Pravein Govindan Kannan, Mun Choon Chan, Tulika Mitra  
   \[[paper](https://dl.acm.org/doi/10.1145/3447993.3483247?cid=82658740957)\]
+  \[[slides]({{ base_path }}/files/slides/mobicom21-fsa-slides.pptx)\]
 
 * Debugging Transient Faults in Data Centers using Synchronized Network-wide Packet Histories [NSDI '21]  
   Pravein Govindan Kannan, Nishant Budhdev\*, **Raj Joshi**\*, Mun Choon Chan  
@@ -38,6 +39,7 @@ author_profile: true
 * Slicing 5G fronthaul networks using programmable switches [CoNEXT '20, Posters & Demos]  
   Nishant Budhdev, **Raj Joshi**, Pravein Govindan Kannan, Mun Choon Chan, Tulika Mitra  
   \[[extended abstract]({{ base_path }}/files/papers/conext21-fsa.pdf)\]
+  \[[poster]({{ base_path }}/files/slides/conext19-fsa-poster.pdf)\]
 
 * The Great Internet TCP Congestion Control Census [SIGMETRICS '20]  
   Ayush Mishra, Xiangpeng Sun, Atishya Jain, Sameer Pande, **Raj Joshi**, and Ben Leong  
