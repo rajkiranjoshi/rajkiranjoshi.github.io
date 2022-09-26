@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* CS5229: Advanced Computer Networks w/ [Ben Leong](https://www.comp.nus.edu.sg/~bleong) \[Fall 2021\]  
+  A graduate level course at NUS that covers advanced topics in networking. Includes a hands-on project to reproduce results from a popular research paper.
+
+
 * CS5248: Systems Support for Continuous Media w/ [Roger Zimmermann](https://www.comp.nus.edu.sg/~rogerz)  
   A graduate level course at NUS that covers major aspects of video and audio streaming systems. Includes a hands-on project to build an end-to-end DASH streaming system from scratch.  
   * Mean student rating: 4.4/5.0 [Fall 2017] ([Full Report]({{ base_path }}/files/teaching/CS5248_Sem1_AY17-18_TA_Feedback.pdf))
