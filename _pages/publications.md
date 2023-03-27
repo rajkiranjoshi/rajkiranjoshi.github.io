@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* Masking Corruption Packet Losses in Datacenter Networks with Link-local
+  Retransmission <span style="color:red">[Under  Submission]</span>  
+  **Raj Joshi**, Cha Hwan Song, Xin Zhe Khooi, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong  
+  \[[draft]({{ base_path }}/files/papers/sigcomm23-protego_draft.pdf)\]  
+
 * LinkGuardian: Mitigating the impact of packet corruption loss with link-local retransmission [APNet '22]  
   **Raj Joshi**, Qi Guo, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong  
   \[[paper]({{ base_path }}/files/papers/apnet22-linkguardian.pdf)\]  \[[slides]({{ base_path }}/files/slides/apnet22-linkguardian-slides.pptx)\]
