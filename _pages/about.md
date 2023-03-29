@@ -15,7 +15,7 @@ I am a PhD student at the [School of Computing, National University of Singapore
 
 I am passionate about **Systems and Networking**; in particular, programmable dataplanes and their applications/implications for network monitoring, congestion control, fault tolerance, in-network computing and distributed systems.
 
-My updated (September 2022) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
+My updated (March 2023) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
 
 
 
