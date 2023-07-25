@@ -16,9 +16,20 @@ author_profile: true
 {% endfor %} -->
 
 * Masking Corruption Packet Losses in Datacenter Networks with Link-local
-  Retransmission <span style="color:red">[Under  Submission]</span>  
-  **Raj Joshi**, Cha Hwan Song, Xin Zhe Khooi, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong  
-  \[[draft]({{ base_path }}/files/papers/sigcomm23-protego_draft.pdf)\]  
+  Retransmission [SIGCOMM '23]
+  <br>**Raj Joshi**, Cha Hwan Song, Xin Zhe Khooi, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong  
+  \[[paper]({{ base_path }}/files/papers/sigcomm23-linkguardian.pdf)\]
+  <span style="color:red"><i>To Appear</i></span>
+
+* Network Load Balancing with In-network Reordering Support for RDMA [SIGCOMM '23]   
+  Cha Hwan Song, Xin Zhe Khooi, **Raj Joshi**, Inho Choi, Jialin Li, Mun Choon Chan
+  <br>\[[paper]({{ base_path }}/files/papers/sigcomm23-conweave.pdf)\] <span style="color:red"><i>To Appear</i></span>
+  
+
+* Capybara: µSecond-Scale Live TCP Migration [APSys '23]
+  <br>Inho Choi, Nimish Wadekar, **Raj Joshi**, Joshua Fried, Dan R. K. Ports, Irene Zhang, Jialin Li
+  <br>\[[paper]({{ base_path }}/files/papers/apsys23-capybara.pdf)\] <span style="color:red"><i>To Appear</i></span>
+  
 
 * LinkGuardian: Mitigating the impact of packet corruption loss with link-local retransmission [APNet '22]  
   **Raj Joshi**, Qi Guo, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong  
