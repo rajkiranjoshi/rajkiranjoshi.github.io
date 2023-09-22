@@ -25,7 +25,7 @@ My updated (Sept 2023) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
 
 <h2> Research Interests </h2>
 
-I am broadly interested in networked systems. My Ph.D. thesis mainly focused on designing in-network techniques to mitigate the impact of link failures in datacenter networks.
+I am broadly interested in networked systems. My [Ph.D. thesis](https://rajkiranjoshi.github.io/files/papers/nus23-thesis_JoshiRaj.pdf) mainly focused on designing in-network techniques to mitigate the impact of link failures in datacenter networks.
 My current interests include optimizing 5G RAN/core processing and improving distributed systems through network edge programmability.
 
 <!-- Apart from my Ph.D. thesis, my research contributions span time synchronization, network monitoring, 5G RAN, and Internet congestion control.  -->
