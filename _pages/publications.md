@@ -23,23 +23,25 @@ You can also find my (more up-to-date) publications on <a href="https://scholar.
   <!-- <span style="color:red">[Under Submission]</span>    -->
   Xin Zhe Khooi, Cha Hwan Song, Satis Kumar Permal, Nishant Budhdev, **Raj Joshi**, Mun Choon Chan   
   \[[draft]({{ base_path }}/files/papers/draft23-junction.pdf)\]
+  <!-- <span style="color:red"><i>New</i></span> -->
 
 * Masking Corruption Packet Losses in Datacenter Networks with Link-local
   Retransmission **[SIGCOMM '23]**
   <br>**Raj Joshi**, Cha Hwan Song, Xin Zhe Khooi, Nishant Budhdev, Ayush Mishra, Mun Choon Chan, Ben Leong  
   \[[paper](https://dl.acm.org/doi/pdf/10.1145/3603269.3604853)\]
-  <span style="color:red"><i>New</i></span>
+  <!-- <span style="color:red"><i>New</i></span> -->
 
 * Network Load Balancing with In-network Reordering Support for RDMA **[SIGCOMM '23]** 
   <br>Cha Hwan Song, Xin Zhe Khooi, **Raj Joshi**, Inho Choi, Jialin Li, Mun Choon Chan
-  <br>\[[paper](https://dl.acm.org/doi/pdf/10.1145/3603269.3604849)\] <span style="color:red"><i>New</i></span>
+  <br>\[[paper](https://dl.acm.org/doi/pdf/10.1145/3603269.3604849)\]
+  <!-- <span style="color:red"><i>New</i></span> -->
   
 
 * Capybara: µSecond-Scale Live TCP Migration **[APSys '23]**
   <br>Inho Choi, Nimish Wadekar, **Raj Joshi**, Joshua Fried, Dan R. K. Ports, Irene Zhang, Jialin Li
   <br>\[[paper](https://dl.acm.org/doi/pdf/10.1145/3609510.3609813)\]
   \[[slides]({{ base_path }}/files/slides/apsys23-capybara-slides.pptx)\]
-  <span style="color:red"><i>New</i></span>
+  <!-- <span style="color:red"><i>New</i></span> -->
   
 
 * LinkGuardian: Mitigating the impact of packet corruption loss with link-local retransmission **[APNet '22]**  
