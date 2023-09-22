@@ -10,12 +10,27 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/). I am advised by [Ben Leong](https://www.comp.nus.edu.sg/~bleong/) and I also work closely with [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/). Before joining NUS, I worked as a Member of Technical Staff in the Print Workflow division of [Adobe](https://www.adobe.com/in/) at Noida, India. Even prior to that I spent 4 amazing years doing my undergraduate studies at [BITS Pilani](https://universe.bits-pilani.ac.in/Pilani/index.aspx), India.
+I am a Research Fellow at the [School of Computing, National University of Singapore (NUS)](https://www.comp.nus.edu.sg/). I recently completed my Ph.D. in Computer Science from the same school. I am advised by [Ben Leong](https://www.comp.nus.edu.sg/~bleong/) and I also work closely with [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/). 
+
+Before joining NUS, I worked as a Member of Technical Staff at [Adobe](https://www.adobe.com/in/), India. Even prior to that I completed my undergraduate studies at [BITS Pilani](https://universe.bits-pilani.ac.in/Pilani/index.aspx), India.
+
+<!-- Before joining NUS, I worked as a Member of Technical Staff in the Print Workflow division of [Adobe](https://www.adobe.com/in/) at Noida, India. Even prior to that I spent 4 amazing years doing my undergraduate studies at [BITS Pilani](https://universe.bits-pilani.ac.in/Pilani/index.aspx), India. -->
 
 
-I am passionate about **Systems and Networking**; in particular, programmable dataplanes and their applications/implications for network monitoring, congestion control, fault tolerance, in-network computing and distributed systems.
+<b>I am on the job market and looking for US-based research positions (including post-doc) in industry as well as academia.</b>
 
-My updated (March 2023) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
+My updated (Sept 2023) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
+
+<!-- I am a PhD student at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/).  -->
+
+<h2> Research Interests </h2>
+
+I am broadly interested in networked systems. My Ph.D. thesis mainly focused on designing in-network techniques to mitigate the impact of link failures in datacenter networks.
+My current interests include optimizing 5G RAN/core processing and improving distributed systems through network edge programmability.
+
+<!-- Apart from my Ph.D. thesis, my research contributions span time synchronization, network monitoring, 5G RAN, and Internet congestion control.  -->
+<!-- I am passionate about **Systems and Networking**; in particular, programmable dataplanes and their applications/implications for network monitoring, congestion control, fault tolerance, in-network computing and distributed systems.
+ -->
 
 
 
