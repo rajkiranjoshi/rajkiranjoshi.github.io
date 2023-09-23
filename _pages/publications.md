@@ -19,10 +19,9 @@ author_profile: true
 You can also find my (more up-to-date) publications on <a href="https://scholar.google.co.in/citations?user=2fCzwB8AAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
 * Junction: Enabling 5G-WiFi Convergence at Scale with Programmable Switches 
-  [Under Submission]   
-  <!-- <span style="color:red">[Under Submission]</span>    -->
+  [Under Submission]    
   Xin Zhe Khooi, Cha Hwan Song, Satis Kumar Permal, Nishant Budhdev, **Raj Joshi**, Mun Choon Chan   
-  \[[draft]({{ base_path }}/files/papers/draft23-junction.pdf)\]
+  <!-- \[[draft]({{ base_path }}/files/papers/draft23-junction.pdf)\] -->
   <!-- <span style="color:red"><i>New</i></span> -->
 
 * Masking Corruption Packet Losses in Datacenter Networks with Link-local
