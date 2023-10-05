@@ -19,7 +19,7 @@ Before joining NUS, I worked as a Member of Technical Staff at [Adobe](https://w
 
 <b>I am on the job market and looking for US-based research positions (including post-doc) in industry as well as academia.</b>
 
-My updated (Sept 2023) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
+My updated (Oct 2023) CV is [here]({{ base_path }}/files/cv_rajjoshi.pdf).
 
 <!-- I am a PhD student at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/).  -->
 
